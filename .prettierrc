@@ -1,0 +1,17 @@
+{
+   "//COMMENT": "The following property (printWidth) is what makes the bits inside a thing wrap",
+   "printWidth": 90,
+   "tabWidth": 3,
+   "semi": true,
+   "singleQuote": true,
+   "trailingComma": "none",
+   "bracketSpacing": true,
+   "jsxBracketSameLine": true,
+   "htmlVoidElements": false,
+   "quoteProps": "as-needed",
+   "jsxSingleQuote": false,
+   "bracketSameLine": false,
+   "arrowParens": "avoid",
+   "htmlWhitespaceSensitivity": "css",
+   "endOfLine": "auto"
+}

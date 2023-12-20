@@ -1,0 +1,11 @@
+body {
+   margin: 0;
+   font-family: 'Grand Casino Regular';
+   background: linear-gradient(to right, lightblue, rgb(116, 132, 205));
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}

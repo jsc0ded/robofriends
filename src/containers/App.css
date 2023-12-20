@@ -1,0 +1,13 @@
+@font-face {
+   font-family: 'Grand Casino Regular';
+   font-style: normal;
+   font-weight: normal;
+   src: local('Grand Casino Regular'), url('GrandcasinoRegular-mLExx.woff') format('woff');
+}
+
+h1 {
+   font-family: 'Grand Casino Regular';
+   font-weight: 300;
+   color: rgb(37, 53, 122);
+   font-size: 6rem;
+}
