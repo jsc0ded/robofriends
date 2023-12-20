@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/robofriends/static/css/main.f79cc8be.css",
-    "main.js": "/robofriends/static/js/main.a01cfe62.js",
+    "main.js": "/robofriends/static/js/main.66b96b58.js",
     "static/media/GrandcasinoRegular-mLExx.woff": "/robofriends/static/media/GrandcasinoRegular-mLExx.a8c81c7bc1ae4794d621.woff",
     "index.html": "/robofriends/index.html",
     "main.f79cc8be.css.map": "/robofriends/static/css/main.f79cc8be.css.map",
-    "main.a01cfe62.js.map": "/robofriends/static/js/main.a01cfe62.js.map"
+    "main.66b96b58.js.map": "/robofriends/static/js/main.66b96b58.js.map"
   },
   "entrypoints": [
     "static/css/main.f79cc8be.css",
-    "static/js/main.a01cfe62.js"
+    "static/js/main.66b96b58.js"
   ]
 }
